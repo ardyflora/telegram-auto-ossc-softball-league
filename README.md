@@ -45,7 +45,7 @@ Ardy Flora – flora_ripudaman@hotmail.com
 
 Distributed under the MIT license. See ``LICENSE.txt`` for more information.
 
-[https://github.com/ardyflora/telegram-fantasy-premier-league-bot](https://github.com/ardyflora/)
+[https://github.com/ardyflora/telegram-auto-ossc-softball-league](https://github.com/ardyflora/)
 
 ## Contributing
 
